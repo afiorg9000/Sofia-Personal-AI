@@ -21,11 +21,11 @@ To have the bot be able to engage in conversations with users with my personalit
 - Consumer portal: Q&A chat-bot sofia
 - Sofia’s personal portal: prompt-based
 
-### Potential Ideas
+### Technologies
 
-Ask users to describe themselves through inquiry that will allow the AI to create a better sense of who they are, to list personalized generated prompts on their self-improvement.
-
-AI can be imported to whatsapp, facebook and discord so people can send things and converse with my replica. She could send you resources of mine that might be interesting for you as well 
+- UI build: Streamlit
+- Hosting: Heroku or Streamlit
+- ML model: MLops
 
 ### Measurable Goals
 - Create an AI prompt-based Interface
@@ -39,3 +39,10 @@ AI can be imported to whatsapp, facebook and discord so people can send things a
 - Train bot to generate sofia-based ideas.
 
 - Train bot to generate code on its own without supervision.
+
+
+### Potential Ideas
+
+Ask users to describe themselves through inquiry that will allow the AI to create a better sense of who they are, to list personalized generated prompts on their self-improvement.
+
+AI can be imported to whatsapp, facebook and discord so people can send things and converse with my replica. She could send you resources of mine that might be interesting for you as well 
