@@ -1,11 +1,3 @@
-# GPT-3 Streamlit boilerplate
-
-<<<<<<< HEAD
-- create virtual environment https://docs.python.org/3/library/venv.html
-- Activate virtual environment: `./venv/Scripts/activate`
-- install dependencies: `pip install -r requirements.txt`
-- Run application `streamlit run gpt_app.py`
-=======
 ### Sofia’s Composition
 
 HUMAN-CENTERED AI
@@ -17,9 +9,9 @@ Sofia is designed to help improve your life in a number of ways. First, she can 
 
 ### Technologies
 
-- UI build: Streamlit
-- AI: GPT-3
-- VE: ('https://github.com/nextgrid/streamlit_gpt3_boilerplate')
+- UI build: [Streanlit](https://docs.streamlit.io/library/get-started)
+- AI alg: [GPT-3 OPENAI](https://beta.openai.com/docs/introduction)
+- [GPT-3 Streamlit boilerplate](https://lablab.ai/t/gpt3-streamlit)
 
 ### Measurable Goals
 - Create an AI propmt-based Interface with a GPT-3 preset of Sofia. 
@@ -27,4 +19,3 @@ Sofia is designed to help improve your life in a number of ways. First, she can 
 - Create an personal development Idea & code generator portal on Streamlit.
 - Have 5 PD frameworks preset for Sofia to answer for the user.
 
->>>>>>> b3966641fda1270a7660c973579146442a26dbf5
