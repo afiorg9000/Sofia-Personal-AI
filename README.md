@@ -14,6 +14,7 @@ Sofia is designed to help improve your life in a number of ways. First, she can 
 
 - UI build: Streamlit
 - AI: GPT-3
+- VE: ('https://github.com/nextgrid/streamlit_gpt3_boilerplate')
 
 ### Measurable Goals
 - Create an AI propmt-based Interface with a GPT-3 preset of Sofia. 
